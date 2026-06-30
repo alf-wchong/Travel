@@ -775,3 +775,24 @@ If you checked every box...
 
 🎉 You're ready to leave Helsinki Airport and start enjoying your layover.
 
+---
+
+![HEL arrivals flow](images/arrrivals-flow.svg)
+
+![Luggage storage decision tree](images/luggage-decision-tree.svg)
+
+
+# 🔎 Verification Notes
+
+Current public sources confirm the following:
+
+* Finavia’s official Helsinki Airport map remains the best source for live terminal layout and service locations.
+* HSL states that Helsinki Airport is served by **I and P trains**, the station is directly under the terminal, and the city-center trip takes about **30 minutes**.
+* HSL says an **ABC ticket** is required between Helsinki Airport and Helsinki city center.
+* HSL supports **contactless payment** for adult single fares across HSL transport.
+* Finavia lists **Excess Baggage Company** as a baggage storage and travel services provider in the Arrivals Hall.
+* Finavia states Helsinki Airport offers unlimited free Wi-Fi under the network name **“Helsinki Airport Free Wi-Fi.”**
+
+Sources: Finavia airport map, Excess Baggage Company, Finavia Wi-Fi, and HSL airport train/contactless payment pages.
+
+
