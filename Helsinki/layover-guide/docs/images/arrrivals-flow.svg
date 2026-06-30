@@ -1,4 +1,3 @@
-```svg
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
   <title id="title">Helsinki Airport Arrivals to Train and Luggage Storage Flow</title>
   <desc id="desc">A simplified flow diagram showing the path from aircraft arrival to baggage claim, customs, arrivals hall, Alepa, railway station signs, lower transport level, train station, and luggage storage.</desc>
@@ -55,4 +54,3 @@
     </marker>
   </defs>
 </svg>
-```
