@@ -1,0 +1,58 @@
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Helsinki Airport Arrivals to Train and Luggage Storage Flow</title>
+  <desc id="desc">A simplified flow diagram showing the path from aircraft arrival to baggage claim, customs, arrivals hall, Alepa, railway station signs, lower transport level, train station, and luggage storage.</desc>
+
+  <rect width="1200" height="760" fill="#f7f9fc"/>
+
+  <text x="600" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2937">
+    ✈️ HEL Arrival Flow: Airport Brain Mode
+  </text>
+
+  <text x="600" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#4b5563">
+    Follow the signs. Store the bags. Get to the train.
+  </text>
+
+  <g font-family="Arial, sans-serif" font-size="20" fill="#111827">
+    <rect x="430" y="135" width="340" height="62" rx="18" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <text x="600" y="174" text-anchor="middle">✈️ Aircraft Arrival</text>
+
+    <line x1="600" y1="197" x2="600" y2="235" stroke="#6b7280" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect x="430" y="235" width="340" height="62" rx="18" fill="#e0f2fe" stroke="#0284c7" stroke-width="3"/>
+    <text x="600" y="274" text-anchor="middle">🛄 Baggage Claim</text>
+
+    <line x1="600" y1="297" x2="600" y2="335" stroke="#6b7280" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect x="430" y="335" width="340" height="62" rx="18" fill="#fef3c7" stroke="#d97706" stroke-width="3"/>
+    <text x="600" y="374" text-anchor="middle">🛂 Customs</text>
+
+    <line x1="600" y1="397" x2="600" y2="435" stroke="#6b7280" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect x="365" y="435" width="470" height="72" rx="20" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+    <text x="600" y="478" text-anchor="middle">🚪 Arrivals Hall 2B + 🟢 Alepa</text>
+
+    <line x1="600" y1="507" x2="600" y2="550" stroke="#6b7280" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect x="365" y="550" width="470" height="72" rx="20" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/>
+    <text x="600" y="593" text-anchor="middle">🚆 Follow Railway Station Signs</text>
+
+    <line x1="600" y1="622" x2="600" y2="660" stroke="#6b7280" stroke-width="4" marker-end="url(#arrow)"/>
+
+    <rect x="120" y="660" width="400" height="62" rx="18" fill="#fce7f3" stroke="#db2777" stroke-width="3"/>
+    <text x="320" y="699" text-anchor="middle">🧳 Luggage Storage</text>
+
+    <rect x="680" y="660" width="400" height="62" rx="18" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+    <text x="880" y="699" text-anchor="middle">🚉 Train Station</text>
+
+    <line x1="600" y1="660" x2="520" y2="690" stroke="#6b7280" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="600" y1="660" x2="680" y2="690" stroke="#6b7280" stroke-width="4" marker-end="url(#arrow)"/>
+  </g>
+
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6b7280"/>
+    </marker>
+  </defs>
+</svg>
+```
